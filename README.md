@@ -4,14 +4,17 @@
 - [x] Create a new project
 - [x] Add tailwind CSS
 - [x] Design the UI
+- [ ] Create feed
 - [ ] Add Firebase
 - [ ] Add database
+- [ ] add authentication
 - [ ] Add sign up 
 - [ ] Add sign in
 - [ ] Add sign out
 - [ ] Create tweet
 - [ ] Delete own tweet
 - [ ] Like/unlike tweet
+- [ ] Support images
 
 
 ## Extra 
