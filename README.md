@@ -5,7 +5,8 @@
 - [x] Add tailwind CSS
 - [x] Design the UI
 - [x] Create feed
-- [ ] Add Firebase
+- [x] create Supabase project
+- [x] Add Supabase SDK (software Development kit)
 - [ ] Add database
 - [ ] add authentication
 - [ ] Add sign up 
@@ -24,7 +25,7 @@
 - [ ] Retweet 
 - [ ] Dark mode
 ## Description
-vite + tailwind CSS + Firebase
+vite + tailwind CSS + Supabase
 
 ## Project setup 
 
