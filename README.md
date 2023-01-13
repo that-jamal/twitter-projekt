@@ -4,7 +4,7 @@
 - [x] Create a new project
 - [x] Add tailwind CSS
 - [x] Design the UI
-- [ ] Create feed
+- [x] Create feed
 - [ ] Add Firebase
 - [ ] Add database
 - [ ] add authentication
