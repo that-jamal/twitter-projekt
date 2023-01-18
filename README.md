@@ -7,18 +7,19 @@
 - [x] Create feed
 - [x] create Supabase project
 - [x] Add Supabase SDK (software Development kit)
-- [ ] Add database
-- [ ] add authentication
-- [ ] Add sign up 
-- [ ] Add sign in
-- [ ] Add sign out
+- [x] Add database
+- [x] add authentication
+- [x] Add sign up 
+- [x] Add sign in
+- [x] Add sign out
 - [ ] Create tweet
 - [ ] Delete own tweet
 - [ ] Like/unlike tweet
-- [ ] Support images
+
 
 
 ## Extra 
+- [ ] Support images
 - [ ] Comment tweet
 - [ ] Add profile
 - [ ] pagination/Infinite scroll
