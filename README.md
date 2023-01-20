@@ -12,13 +12,15 @@
 - [x] Add sign up 
 - [x] Add sign in
 - [x] Add sign out
-- [ ] Create tweet
-- [ ] Delete own tweet
-- [ ] Like/unlike tweet
+- [x] Create tweet
+- [x] Update feed
+- [x] Delete own tweet
+
 
 
 
 ## Extra 
+- [ ] Like/unlike tweet
 - [ ] Support images
 - [ ] Comment tweet
 - [ ] Add profile
